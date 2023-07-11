@@ -1,0 +1,8 @@
+streamlit run "C:\Users\devku\Desktop\multiple disease prediction\Multiple Disease Predict.py"
+
+streamlit run "C:\Users\devku\Desktop\emotion music\music.py"
+
+
+
+
+fo, fhi, flo, jitter_percent, jitter_Abs, RAP, PPQ, DDP, Shimmer, Shimmer_dB, APQ3, APQ5, APQ, APQ, DDA, NHR, HNR, RPDE,  DFA, spread1, spread2,  D2, PPE    
